@@ -1,0 +1,56 @@
+{
+    "prata": {
+        "title": "**Vip Prata**",
+        "color": 5187207,
+        "thumbnail": {
+            "url": "https://static1.squarespace.com/static/5420d068e4b09194f76b2af6/t/56f70346ac962c84751e71a6/1459028814378/"
+        },
+        "image": {
+            "url": "https://i.imgur.com/EU27WgT.png"
+        },
+        "author": {
+            "name": "Thomas",
+            "icon_url": "https://i.imgur.com/FEIepmZ.jpg"
+        },
+        "fields": [{
+                "name": "(R$25,00)",
+                "value": "\u200b"
+            },
+            {
+                "name": "Comandos e Beneficios",
+                "value": "Tag de VIP Prata no servidor e no discord.\n**/tp e /home** - Cooldown de 40s | Countdown de 15s \n**/home** - Limite de 5 homes \n**/bgrade (0 - 4)** - Melhore automaticamente as construcoes. \n**/rec** - Acesso ao reciclador diretamente da sua base. \n**/sil** - Coloque imagens diretamente em placas."
+            },
+            {
+                "name": "Kits ",
+                "value": "**pRecursos** - Cooldown 20h \n**pPvP** - Cooldown 4h \n**pRespawn** - Cooldown 4m | Kit recebido ao respawnar. \n\nOs itens dos kits podem ser vistos na imagem abaixo, todos os kits so podem ser utilizados **21h** apos o wipe do servidor"
+            }
+        ]
+    },
+    "ouro": {
+        "title": "**Vip Ouro**",
+        "color": 16423444,
+        "thumbnail": {
+            "url": "https://vignette.wikia.nocookie.net/play-rust/images/a/a1/Tempered_AK47_icon.png/revision/latest?cb=20161207184924"
+        },
+        "image": {
+            "url": "https://i.imgur.com/J7U9B0f.png"
+        },
+        "author": {
+            "name": "Thomas",
+            "icon_url": "https://i.imgur.com/FEIepmZ.jpg"
+        },
+        "fields": [{
+                "name": "(R$50,00)",
+                "value": "\u200b"
+            },
+            {
+                "name": "Comandos e Beneficios",
+                "value": "Tag de VIP Ouro no servidor e no discord.\n**/tp e /home** - Cooldown de 20s | Countdown de 10s \n**/home** - Limite de 7 homes \n**/bgrade (0 - 4)** - Melhore automaticamente as construcoes. \n**/rec** - Acesso ao reciclador diretamente da sua base. \n**/sil** - Coloque imagens diretamente em placas."
+            },
+            {
+                "name": "Kits ",
+                "value": "**oRecursos** - Cooldown 20h \n**oPvP** - Cooldown 4h \n**oRespawn** - Cooldown 4m | Kit recebido ao respawnar. \n\nOs itens dos kits podem ser vistos na imagem abaixo, todos os kits so podem ser utilizados **21h** apos o wipe do servidor"
+            }
+        ]
+    }
+}
